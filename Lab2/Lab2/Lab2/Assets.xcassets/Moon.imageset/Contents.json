@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "Full-Hunters-Moon_Gizaw-Legesse_Addis-Ababa-Ethiopia_Oct-20-2021-e1634780880574.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
